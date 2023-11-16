@@ -443,21 +443,21 @@ public class GetData {
         User u6 = new User();
         User u7 = new User();
 
-        u1.setUserName("kietnguyen123");
-        u2.setUserName("nghiemnguyen123");
-        u3.setUserName("thangpham123");
-        u4.setUserName("kiet78911");
-        u5.setUserName("kiet789");
-        u6.setUserName("admin");
-        u7.setUserName("seller");
-
-        u1.setPassWord("key1");
-        u2.setPassWord("nghiem123");
-        u3.setPassWord("thang123");
-        u4.setPassWord("kiet789");
-        u5.setPassWord("kiet789");
-        u6.setPassWord("admin");
-        u7.setPassWord("seller");
+//        u1.setUserName("kietnguyen123");
+//        u2.setUserName("nghiemnguyen123");
+//        u3.setUserName("thangpham123");
+//        u4.setUserName("kiet78911");
+//        u5.setUserName("kiet789");
+//        u6.setUserName("admin");
+//        u7.setUserName("seller");
+//
+//        u1.setPassWord("key1");
+//        u2.setPassWord("nghiem123");
+//        u3.setPassWord("thang123");
+//        u4.setPassWord("kiet789");
+//        u5.setPassWord("kiet789");
+//        u6.setPassWord("admin");
+//        u7.setPassWord("seller");
 
         u1.setRole(1);
         u2.setRole(1);
